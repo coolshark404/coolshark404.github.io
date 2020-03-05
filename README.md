@@ -2,9 +2,9 @@
 
 👇👇
 
-[Preview Theme](https://supunkavinda.github.io/jekyll-theme-leaf/) 
+[Preview Theme](https://coolshark404.github.io )
 
-Jekyll Theme Leaf is a very simple yet beautiful theme created by [Supun Kavinda](https://twitter.com/_SupunKavinda). It is designed for those who love dark sites.
+Jekyll Theme Leaf is a very simple yet beautiful theme created by [Jason Sorria](https://twitter.com/sorria62304646). It is designed for those who love dark sites.
 
 ![Screenshot](https://i.imgur.com/fBiCIuL.png)
 
@@ -135,5 +135,5 @@ To add a custom directory to your theme-gem, please edit the regexp in `leaf.gem
 
 ## License
 
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+The theme is available as open source under the terms of the [SCTU](http://www.sctu.edu.cn).
 
