@@ -6,8 +6,6 @@
 
 Jekyll Theme Leaf is a very simple yet beautiful theme created by [Jason Sorria](https://twitter.com/sorria62304646). It is designed for those who love dark sites.
 
-![Screenshot](https://i.imgur.com/fBiCIuL.png)
-
 ## Installation
 
 Add this line to your Jekyll site's `Gemfile`:
