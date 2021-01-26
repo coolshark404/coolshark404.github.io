@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to change Archlinux kernel to tls
-date:  2020-08-21
+title: Some problems i have to use git
+date:  2021-01-27
 tags: Linux
 ---
 
