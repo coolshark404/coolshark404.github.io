@@ -5,8 +5,6 @@ date:  2021-01-27
 tags: Linux
 ---
 
-# Some problems when i use `git` 
-
 ### Pull a old git repository in a new computer
 
 
