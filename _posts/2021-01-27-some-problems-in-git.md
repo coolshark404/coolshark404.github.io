@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Some problems i have to use git
+title: Some problems when i have to use git
 date:  2021-01-27
 tags: Linux
 ---
 
 ### Pull a old git repository in a new computer
-
 
 `git init` 
 
